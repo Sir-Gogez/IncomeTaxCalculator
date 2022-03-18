@@ -1,0 +1,16 @@
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\bin\Debug\netcoreapp3.1\Exercide2Exam1Final.exe
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\bin\Debug\netcoreapp3.1\Exercide2Exam1Final.deps.json
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\bin\Debug\netcoreapp3.1\Exercide2Exam1Final.runtimeconfig.json
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\bin\Debug\netcoreapp3.1\Exercide2Exam1Final.runtimeconfig.dev.json
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\bin\Debug\netcoreapp3.1\Exercide2Exam1Final.dll
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\bin\Debug\netcoreapp3.1\Exercide2Exam1Final.pdb
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.csproj.AssemblyReference.cache
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.AssemblyInfoInputs.cache
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.AssemblyInfo.cs
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.csproj.CoreCompileInputs.cache
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.dll
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.pdb
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.genruntimeconfig.cache
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.IncomeTaxCalculatorForm.resources
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\Exercide2Exam1Final\Exercide2Exam1Final\obj\Debug\netcoreapp3.1\Exercide2Exam1Final.csproj.GenerateResource.cache
